@@ -8,10 +8,9 @@ nav_order: 1
 
 ###### [DigitalPersona Access Management API ](https://lenhodgeman.github.io/digitalpersona-access-management-api/)/ Open ID Connect Sample Application / Overview  
 
-![](docs/assets/HID-DPAM-oidc-sample.png)  
+![](docs/assets/HID-DPAM-oidc.png)  
 
 ## Overview
-## Open ID Connect Sample Application
 
 TBD
 
