@@ -1,1 +1,0 @@
-# digitalpersona-oidc-sample-app
